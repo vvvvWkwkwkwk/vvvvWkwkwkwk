@@ -1,5 +1,5 @@
 WhoCelebrity = input("Who is your favorite celebrity?")
-CelebrityIsBornIn = int(input("When was your favorite celebrity born?")
-MyAge = int(input("When were you born?")
+CelebrityIsBornIn = int(input("When was your favorite celebrity born?"))
+MyAge = int(input("When were you born?"))
 AgeDifference = abs(MyAge-CelebrityIsBornIn)
 print("You and", WhoCelebrity, "are", AgeDifference, "years apart")
