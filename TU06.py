@@ -1,8 +1,10 @@
-TwinTowers = 452
-MyCityTallestBuilding = int(input("What's the height of your tallest building in metres?"))
-if TwinTowers > MyCityTallestBuilding:
-    print("The KL Twin Towers is taller than your building! Lol noob get rekt pele triange")
-elif TwinTowers == MyCityTallestBuilding:
-    print("Wait, do we both live in Kuala Lumpur? No way!")
+MyHeight = 192
+YourHeightNoob = int(input("What's your height? (in cm) but do not type cm into the question thing"))
+if MyHeight > YourHeightNoob:
+    print("Lol noob get rekt pele triange imagine being such as shawty")
+elif MyHeight == YourHeightNoob:
+    print("Wow so tall (you're probably lying)")
 else:
-    print("Very cool beeg building, unfortunately, KL118.")
+    print("Aint no way bro thats cap")
+
+
